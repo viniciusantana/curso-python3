@@ -5,6 +5,9 @@
 - [x] 13. O que vamos aprender? Devo seguir essa seção? 2m
 - [x] 14. Me ajude a produzir conteúdo gratuito (texto)
 - [ ] 15. Criando meu primeiro módulo Python (*.py) 4m
+```
+AO criar uam pasta não utilizar espaço, acento e números no começo
+```
 - [ ] 16. O interpretador do Python + comentários de código 4m
 - [ ] 17. Docstrings como comentários 5m
 - [ ] Teste 1: Sobre comentários 
