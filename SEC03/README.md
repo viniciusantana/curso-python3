@@ -1,0 +1,102 @@
+# Seção 03: Iniciando na programação com Python
+- Lógica de programação básica
+
+## Aulas
+- [x] 13. O que vamos aprender? Devo seguir essa seção? 2m
+- [x] 14. Me ajude a produzir conteúdo gratuito (texto)
+- [ ] 15. Criando meu primeiro módulo Python (*.py) 4m
+- [ ] 16. O interpretador do Python + comentários de código 4m
+- [ ] 17. Docstrings como comentários 5m
+- [ ] Teste 1: Sobre comentários 
+- [ ] 18. A função print 12m
+- [ ] 19. Tipo str (string) - Introdução aos tipos de dados 9m
+- [ ] Teste 2: Sobre print e str
+- [ ] 20. Tipo int e float (números) - Introdução aos tipos de dados 11m
+- [ ] 21. Tipo bool (boolean) - Introdução aos tipos de dados 7m
+- [ ] Teste 3: Sobre int, float e bool
+- [ ] 22. Coerção de tipos (convertendo um tipo para outro) 13m
+- [ ] 23. Introdução às variáveis em Python 12m
+- [ ] 24. Exercício com variáveis e tipos de dados 3m
+- [ ] 25. Solução - exercício com variáveis e tipos de dados 4m
+- [ ] 26. Introdução aos operadores aritméticos (matemática) 11m
+- [ ] 27. Concatenação (+) e repetição (*) com operadores aritméticos 3m
+- [ ] 28. Precedência entre os operadores aritméticos 7m
+- [ ] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis 3m
+- [ ] 30. Solução exercício de programação - Cálculo do IMC 2m
+- [ ] 31. Uma introdução às f-strings (formatação de strings) 6m
+- [ ] 32. Formatação de strings com o método format 12m
+- [ ] Teste 4: Teste seus conhecimentos
+- [ ] 33. Usando a função input para coletar dados do usuário 9m
+- [ ] 34. Introdução aos blocos de código + if / elif / else (condicionais) 11m
+- [ ] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais 11m
+- [ ] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos 8m
+- [ ] 37. Operadores relacionais (de comparação) em Python 7m
+- [ ] 38. Exercício de programação com if e comparação 3m
+- [ ] 39. Solução - Exercício de programação com if e comparação 3m
+- [ ] 40. Operador Lógico "and" 12m
+- [ ] Teste 5: Sobre and
+- [ ] 41. Operador Lógico "or" 8m
+- [ ] 42. Operador lógico "not" 4m
+- [ ] 43. Operadores in e not in 7m
+- [ ] Teste 6: Teste seu conhecimento
+- [ ] 44. Interpolação de string com % em Python 7m
+- [ ] 45. Formatação de strings com f-strings 10m
+- [ ] 46. Fatiamento de strings e a função len 11m
+- [ ] 47. Exercício: teste seu conhecimento até aqui 3m
+- [ ] 48. Solução - Exercício: teste seu conhecimento até aqui 5m
+- [ ] 49. Introdução ao try e except para capturar erros (exceptions) 15m
+- [ ] 50. Parte 1: Variáveis, constantes e complexidade de código 7m
+- [ ] 51. Parte 2: Variáveis, constantes e complexidade de código 9m
+- [ ] 52. id - A identidade do valor que está na memória 3m
+- [ ] 53. Flags, is, is not e None 11m
+- [ ] 54. Exercícios - Enunciados 4m
+- [ ] 55. Solução 1 dos Exercícios - Enunciados 6m
+- [ ] 56. Solução 2 dos Exercícios - Enunciados 7m
+- [ ] 57. Solução 3 dos Exercícios - Enunciados 5m
+- [ ] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string 15m
+- [ ] 59. while e break - Estrutura de repetição (Parte 1) 10m
+- [ ] 60. while - Condição em detalhes 9m
+- [ ] 61. Operadores de atribuição com operadores aritméticos 5m
+- [ ] 62. while + continue - pulando alguma repetição 8m
+- [ ] 63. while + while (laços internos) 8m
+- [ ] 64. Exercício guiado com while 4m
+- [ ] 65. Solução do exercício guiado com while 6m
+- [ ] 66. Exercício guiado - Calculadora - Parte 1 9m
+- [ ] 67. Exercício guiado - Calculadora - Parte 2 9m
+- [ ] 68. Exercício guiado - Calculadora - Parte 3 5m
+- [ ] 69. while / else (recurso peculiar do Python) 5m
+- [ ] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) 14m
+- [ ] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? 7m
+- [ ] Teste 7: Teste
+- [ ] 72. Introdução ao for / in - estrutura de repetição para coisas finitas 9m
+- [ ] 73. range + for para usar intervalos de números 8m
+- [ ] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador) 15m
+- [ ] 75. O que aprendemos com while também funciona no for (continue, break, else, etc) 5m
+- [ ] 76. Exercício - Jogo da palavra secreta 5m
+- [ ] 77. Sobre exercícios - não saber é normal 3m
+- [ ] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta 8m
+- [ ] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta 8m
+- [ ] 80. Tipo list - Introdução às listas mutáveis em Python 10m
+- [ ] 81. Alterando uma lista com índices, del, append e pop (Tipo list) 14m
+- [ ] 82. Inserindo itens em qualquer índice da lista com insert (Tipo list) 9m
+- [ ] 83. Concatenando e estendendo listas em Python 5m
+- [ ] 84. Cuidados com tipos de dados mutáveis - list e copy 8m
+- [ ] 85. for in com tipo list 2m
+- [ ] 86. Exercício - exiba os índices da lista (aula com solução) 4m
+- [ ] 87. Introdução ao empacotamento e desempacotamento 7m
+- [ ] 88. Tipo tuple (tuplas) 5m
+- [ ] 89. enumerate para enumerar valores de iteráveis (pegar índices) 12m
+- [ ] 90. Exercício - crie uma lista de compras com listas 4m
+- [ ] 91. Solução do exercício - crie uma lista de compras com listas (com try / except) 11m
+- [ ] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal 9m
+- [ ] 93. split, join e strip são métodos muito úteis da str 12m
+- [ ] 94. Listas dentro de listas (iteráveis dentro de iteráveis) 8m
+- [ ] 95. Detalhes sobre o interpretador do Python 17m
+- [ ] 96. Desempacotamento em chamadas de funções 7m
+- [ ] 97. Operação ternária com Python (if e else de uma linha) 7m
+- [ ] 98. Exercício - Gerar o primeiro dígito de um CPF com Python 10m
+- [ ] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python 9m
+- [ ] 100. Exercício - Gerar o segundo dígito de um CPF com Python 4m
+- [ ] 101. Solução do exercício - Gerar o segundo dígito de um CPF com Python9m
+- [ ] 102. Possíveis problemas e soluções para nosso algoritmo do CPF 14m
+- [ ] 103. Criando um gerador de CPFs com nosso algoritmo e Python
