@@ -4,13 +4,13 @@
 ## Aulas
 - [x] 13. O que vamos aprender? Devo seguir essa seção? 2m
 - [x] 14. Me ajude a produzir conteúdo gratuito (texto)
-- [ ] 15. Criando meu primeiro módulo Python (*.py) 4m
+- [x] 15. Criando meu primeiro módulo Python (*.py) 4m
 ```
 AO criar uam pasta não utilizar espaço, acento e números no começo
 ```
-- [ ] 16. O interpretador do Python + comentários de código 4m
-- [ ] 17. Docstrings como comentários 5m
-- [ ] Teste 1: Sobre comentários 
+- [x] 16. O interpretador do Python + comentários de código 4m
+- [x] 17. Docstrings como comentários 5m
+- [x] Teste 1: Sobre comentários 
 - [ ] 18. A função print 12m
 - [ ] 19. Tipo str (string) - Introdução aos tipos de dados 9m
 - [ ] Teste 2: Sobre print e str
