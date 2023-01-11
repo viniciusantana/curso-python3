@@ -8,10 +8,10 @@
 ```
 AO criar uam pasta não utilizar espaço, acento e números no começo
 ```
-- [x] 16. O interpretador do Python + comentários de código 4m
-- [x] 17. Docstrings como comentários 5m
+- [x] 16. O interpretador do Python + comentários de código. (Aula1.py) 4m 
+- [x] 17. Docstrings como comentários. (Aula1.py) 5m
 - [x] Teste 1: Sobre comentários 
-- [ ] 18. A função print 12m
+- [x] 18. A função print. (Aula2.py) 12m
 - [ ] 19. Tipo str (string) - Introdução aos tipos de dados 9m
 - [ ] Teste 2: Sobre print e str
 - [ ] 20. Tipo int e float (números) - Introdução aos tipos de dados 11m
