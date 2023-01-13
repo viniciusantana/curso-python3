@@ -21,9 +21,9 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 23. Introdução às variáveis em Python (aula7.py) 12m
 - [x] 24. Exercício com variáveis e tipos de dados (aula8.py) 3m
 - [x] 25. Solução - exercício com variáveis e tipos de dados (aula8.py) 4m
-- [ ] 26. Introdução aos operadores aritméticos (matemática) 11m
-- [ ] 27. Concatenação (+) e repetição (*) com operadores aritméticos 3m
-- [ ] 28. Precedência entre os operadores aritméticos 7m
+- [x] 26. Introdução aos operadores aritméticos  (aula9.py)(matemática) 11m
+- [x] 27. Concatenação (+) e repetição (*) com operadores aritméticos (aula10.py) 3m
+- [x] 28. Precedência entre os operadores aritméticos (aula11.py) 7m
 - [ ] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis 3m
 - [ ] 30. Solução exercício de programação - Cálculo do IMC 2m
 - [ ] 31. Uma introdução às f-strings (formatação de strings) 6m
