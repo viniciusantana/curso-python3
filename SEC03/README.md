@@ -33,9 +33,9 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 30. Solução exercício de programação - Cálculo do IMC(aula12.py) 2m
 
 ### Formatação de strings
-- [ ] 31. Uma introdução às f-strings (formatação de strings) 6m
-- [ ] 32. Formatação de strings com o método format 12m
-- [ ] Teste 4: Teste seus conhecimentos
+- [x] 31. Uma introdução às f-strings (formatação de strings) (aula13.py) 6m
+- [x] 32. Formatação de strings com o método format (aula14.py) 12m
+- [x] Teste 4: Teste seus conhecimentos
 
 ### Condicionais, input e operadores relacionais
 - [ ] 33. Usando a função input para coletar dados do usuário 9m
