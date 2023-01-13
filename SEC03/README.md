@@ -18,9 +18,9 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados (aula5.py) 7m
 - [x] Teste 3: Sobre int, float e bool
 - [x] 22. Coerção de tipos (aula6.py) (convertendo um tipo para outro) 13m
-- [x] 23. Introdução às variáveis em Python 12m
-- [ ] 24. Exercício com variáveis e tipos de dados 3m
-- [ ] 25. Solução - exercício com variáveis e tipos de dados 4m
+- [x] 23. Introdução às variáveis em Python (aula7.py) 12m
+- [x] 24. Exercício com variáveis e tipos de dados (aula8.py) 3m
+- [x] 25. Solução - exercício com variáveis e tipos de dados (aula8.py) 4m
 - [ ] 26. Introdução aos operadores aritméticos (matemática) 11m
 - [ ] 27. Concatenação (+) e repetição (*) com operadores aritméticos 3m
 - [ ] 28. Precedência entre os operadores aritméticos 7m
