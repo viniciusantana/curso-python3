@@ -2,6 +2,7 @@
 - Lógica de programação básica
 
 ## Aulas
+
 - [x] 13. O que vamos aprender? Devo seguir essa seção? 2m
 - [x] 14. Me ajude a produzir conteúdo gratuito (texto)
 - [x] 15. Criando meu primeiro módulo Python (*.py) 4m
@@ -11,6 +12,7 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 16. O interpretador do Python + comentários de código. (Aula1.py) 4m 
 - [x] 17. Docstrings como comentários. (Aula1.py) 5m
 - [x] Teste 1: Sobre comentários (prova)
+
 - [x] 18. A função print. (Aula2.py) 12m
 - [x] 19. Tipo str (string) - Introdução aos tipos de dados (aula3.py) 9m
 - [x] Teste 2: Sobre print e str (prova)
@@ -21,18 +23,22 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 23. Introdução às variáveis em Python (aula7.py) 12m
 - [x] 24. Exercício com variáveis e tipos de dados (aula8.py) 3m
 - [x] 25. Solução - exercício com variáveis e tipos de dados (aula8.py) 4m
+
 - [x] 26. Introdução aos operadores aritméticos  (aula9.py)(matemática) 11m
 - [x] 27. Concatenação (+) e repetição (*) com operadores aritméticos (aula10.py) 3m
 - [x] 28. Precedência entre os operadores aritméticos (aula11.py) 7m
-- [ ] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis 3m
-- [ ] 30. Solução exercício de programação - Cálculo do IMC 2m
+- [x] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis (aula12.py) 3m
+- [x] 30. Solução exercício de programação - Cálculo do IMC(aula12.py) 2m
+
 - [ ] 31. Uma introdução às f-strings (formatação de strings) 6m
 - [ ] 32. Formatação de strings com o método format 12m
 - [ ] Teste 4: Teste seus conhecimentos
+
 - [ ] 33. Usando a função input para coletar dados do usuário 9m
 - [ ] 34. Introdução aos blocos de código + if / elif / else (condicionais) 11m
 - [ ] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais 11m
 - [ ] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos 8m
+
 - [ ] 37. Operadores relacionais (de comparação) em Python 7m
 - [ ] 38. Exercício de programação com if e comparação 3m
 - [ ] 39. Solução - Exercício de programação com if e comparação 3m
@@ -42,6 +48,7 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [ ] 42. Operador lógico "not" 4m
 - [ ] 43. Operadores in e not in 7m
 - [ ] Teste 6: Teste seu conhecimento
+
 - [ ] 44. Interpolação de string com % em Python 7m
 - [ ] 45. Formatação de strings com f-strings 10m
 - [ ] 46. Fatiamento de strings e a função len 11m
@@ -56,6 +63,7 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [ ] 55. Solução 1 dos Exercícios - Enunciados 6m
 - [ ] 56. Solução 2 dos Exercícios - Enunciados 7m
 - [ ] 57. Solução 3 dos Exercícios - Enunciados 5m
+
 - [ ] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string 15m
 - [ ] 59. while e break - Estrutura de repetição (Parte 1) 10m
 - [ ] 60. while - Condição em detalhes 9m
@@ -71,6 +79,7 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [ ] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) 14m
 - [ ] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? 7m
 - [ ] Teste 7: Teste
+
 - [ ] 72. Introdução ao for / in - estrutura de repetição para coisas finitas 9m
 - [ ] 73. range + for para usar intervalos de números 8m
 - [ ] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador) 15m
@@ -86,6 +95,7 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [ ] 84. Cuidados com tipos de dados mutáveis - list e copy 8m
 - [ ] 85. for in com tipo list 2m
 - [ ] 86. Exercício - exiba os índices da lista (aula com solução) 4m
+
 - [ ] 87. Introdução ao empacotamento e desempacotamento 7m
 - [ ] 88. Tipo tuple (tuplas) 5m
 - [ ] 89. enumerate para enumerar valores de iteráveis (pegar índices) 12m
