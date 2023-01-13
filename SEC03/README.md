@@ -15,10 +15,10 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 19. Tipo str (string) - Introdução aos tipos de dados (aula3.py) 9m
 - [x] Teste 2: Sobre print e str (prova)
 - [x] 20. Tipo int e float (números) - Introdução aos tipos de dados (aula4.py) 11m
-- [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados 7m
+- [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados (aula5.py) 7m
 - [x] Teste 3: Sobre int, float e bool
-- [ ] 22. Coerção de tipos (convertendo um tipo para outro) 13m
-- [ ] 23. Introdução às variáveis em Python 12m
+- [x] 22. Coerção de tipos (aula6.py) (convertendo um tipo para outro) 13m
+- [x] 23. Introdução às variáveis em Python 12m
 - [ ] 24. Exercício com variáveis e tipos de dados 3m
 - [ ] 25. Solução - exercício com variáveis e tipos de dados 4m
 - [ ] 26. Introdução aos operadores aritméticos (matemática) 11m
