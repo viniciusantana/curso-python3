@@ -52,4 +52,3 @@ formato = string.format(a, b, c)
 
 print(formato) # a=AAAAA b=BBBBB c=1.1
 '''
-a = 1 + 'a'
