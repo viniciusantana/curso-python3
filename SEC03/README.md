@@ -18,23 +18,23 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 19. Tipo str (string) - Introdução aos tipos de dados [aula3.py](aula3.py) 9m
 - [x] Teste 2: Sobre print e str (prova)
 - [x] 20. Tipo int e float (números) - Introdução aos tipos de dados [aula4.py](aula4.py) 11m
-- [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados (aula5.py) 7m
+- [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados [aula5.py](aula5.py) 7m
 - [x] Teste 3: Sobre int, float e bool
-- [x] 22. Coerção de tipos (aula6.py) (convertendo um tipo para outro) 13m
-- [x] 23. Introdução às variáveis em Python (aula7.py) 12m
-- [x] 24. Exercício com variáveis e tipos de dados (aula8.py) 3m
-- [x] 25. Solução - exercício com variáveis e tipos de dados (aula8.py) 4m
+- [x] 22. Coerção de tipos [aula6.py](aula6.py) (convertendo um tipo para outro) 13m
+- [x] 23. Introdução às variáveis em Python [aula7.py](aula7.py) 12m
+- [x] 24. Exercício com variáveis e tipos de dados [aula8.py](aula8.py) 3m
+- [x] 25. Solução - exercício com variáveis e tipos de dados [aula8.py](aula8.py) 4m
 
 ### Operadores aritméticos
-- [x] 26. Introdução aos operadores aritméticos  (aula9.py)(matemática) 11m
-- [x] 27. Concatenação (+) e repetição (*) com operadores aritméticos (aula10.py) 3m
-- [x] 28. Precedência entre os operadores aritméticos (aula11.py) 7m
-- [x] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis (aula12.py) 3m
-- [x] 30. Solução exercício de programação - Cálculo do IMC(aula12.py) 2m
+- [x] 26. Introdução aos operadores aritméticos  [aula9.py](aula9.py)(matemática) 11m
+- [x] 27. Concatenação (+) e repetição (*) com operadores aritméticos [aula10.py](aula10.py) 3m
+- [x] 28. Precedência entre os operadores aritméticos [aula11.py](aula11.py) 7m
+- [x] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis [aula12.py](aula12.py) 3m
+- [x] 30. Solução exercício de programação - Cálculo do IMC[aula12.py](aula12.py) 2m
 
 ### Formatação de strings
-- [x] 31. Uma introdução às f-strings (formatação de strings) (aula13.py) 6m
-- [x] 32. Formatação de strings com o método format (aula14.py) 12m
+- [x] 31. Uma introdução às f-strings (formatação de strings) [aula13.py](aula13.py) 6m
+- [x] 32. Formatação de strings com o método format [aula14.py](aula14.py) 12m
 - [x] Teste 4: Teste seus conhecimentos
 
 ### Condicionais, input e operadores relacionais
