@@ -38,13 +38,13 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] Teste 4: Teste seus conhecimentos
 
 ### Condicionais, input e operadores relacionais
-- [ ] 33. Usando a função input para coletar dados do usuário 9m
-- [ ] 34. Introdução aos blocos de código + if / elif / else (condicionais) 11m
-- [ ] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais 11m
-- [ ] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos 8m
-- [ ] 37. Operadores relacionais (de comparação) em Python 7m
-- [ ] 38. Exercício de programação com if e comparação 3m
-- [ ] 39. Solução - Exercício de programação com if e comparação 3m
+- [x] 33. Usando a função input para coletar dados do usuário [aula15.py](aula15.py)  9m
+- [x] 34. Introdução aos blocos de código + if / elif / else (condicionais) [aula16.py](aula16.py). 11m
+- [x] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais [aula17.py](aula17.py) 11m
+- [x] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos[aula18.py](aula18.py) 8m
+- [x] 37. Operadores relacionais (de comparação) em Python 7m [aula19.py](aula19.py) 
+- [x] 38. Exercício de programação com if e comparação [aula20.py](aula20.py)  3m
+- [x] 39. Solução - Exercício de programação com if e comparação [aula20.py](aula20.py) 3m
 
 # Operadores lógicos
 - [ ] 40. Operador Lógico "and" 12m
