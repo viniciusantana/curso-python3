@@ -47,12 +47,12 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 39. Solução - Exercício de programação com if e comparação [aula20.py](aula20.py) 3m
 
 # Operadores lógicos
-- [ ] 40. Operador Lógico "and" 12m
-- [ ] Teste 5: Sobre and
-- [ ] 41. Operador Lógico "or" 8m
-- [ ] 42. Operador lógico "not" 4m
-- [ ] 43. Operadores in e not in 7m
-- [ ] Teste 6: Teste seu conhecimento
+- [x] 40. Operador Lógico "and" [aula21.py](aula21.py) 12m
+- [x] Teste 5: Sobre and
+- [x] 41. Operador Lógico "or" [aula22.py](aula22.py) 8m
+- [x] 42. Operador lógico "not" [aula23.py](aula23.py) 4m
+- [x] 43. Operadores in e not in [aula24.py](aula24.py) 7m
+- [x] Teste 6: Teste seu conhecimento
 
 # Interpolação e formatação de strings
 - [ ] 44. Interpolação de string com % em Python 7m
