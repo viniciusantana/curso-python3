@@ -46,7 +46,7 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 38. Exercício de programação com if e comparação [aula20.py](aula20.py)  3m
 - [x] 39. Solução - Exercício de programação com if e comparação [aula20.py](aula20.py) 3m
 
-# Operadores lógicos
+### Operadores lógicos
 - [x] 40. Operador Lógico "and" [aula21.py](aula21.py) 12m
 - [x] Teste 5: Sobre and
 - [x] 41. Operador Lógico "or" [aula22.py](aula22.py) 8m
@@ -54,14 +54,14 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 43. Operadores in e not in [aula24.py](aula24.py) 7m
 - [x] Teste 6: Teste seu conhecimento
 
-# Interpolação e formatação de strings
-- [ ] 44. Interpolação de string com % em Python 7m
+### Interpolação e formatação de strings
+- [x] 44. Interpolação de string com % em Python [aula25.py](aula25.py) 7m
 - [ ] 45. Formatação de strings com f-strings 10m
 - [ ] 46. Fatiamento de strings e a função len 11m
 - [ ] 47. Exercício: teste seu conhecimento até aqui 3m
 - [ ] 48. Solução - Exercício: teste seu conhecimento até aqui 5m
 
-# Introdução ao try e except
+### Introdução ao try e except
 - [ ] 49. Introdução ao try e except para capturar erros (exceptions) 15m
 - [ ] 50. Parte 1: Variáveis, constantes e complexidade de código 7m
 - [ ] 51. Parte 2: Variáveis, constantes e complexidade de código 9m
