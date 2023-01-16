@@ -56,8 +56,8 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 
 ### Interpolação e formatação de strings
 - [x] 44. Interpolação de string com % em Python [aula25.py](aula25.py) 7m
-- [x] 45. Formatação de strings com f-strings[aula26.py](aula26.py) 10m
-- [ ] 46. Fatiamento de strings e a função len 11m
+- [x] 45. Formatação de strings com f-strings [aula26.py](aula26.py) 10m
+- [x] 46. Fatiamento de strings e a função len [aula27.py](aula27.py)  11m
 - [ ] 47. Exercício: teste seu conhecimento até aqui 3m
 - [ ] 48. Solução - Exercício: teste seu conhecimento até aqui 5m
 
