@@ -9,59 +9,59 @@
 ```
 AO criar uam pasta não utilizar espaço, acento e números no começo
 ```
-- [x] 16. O interpretador do Python + comentários de código. (Aula1.py) 4m 
-- [x] 17. Docstrings como comentários. (Aula1.py) 5m
+- [x] 16. O interpretador do Python + comentários de código. [aula1.py](aula1.py) 4m 
+- [x] 17. Docstrings como comentários. [aula1.py](aula1.py) 5m
 - [x] Teste 1: Sobre comentários (prova)
 
 ###  Tipos de dados e função print
-- [x] 18. A função print. (Aula2.py) 12m
-- [x] 19. Tipo str (string) - Introdução aos tipos de dados (aula3.py) 9m
+- [x] 18. A função print. [aula2.py](aula2.py) 12m
+- [x] 19. Tipo str (string) - Introdução aos tipos de dados [aula3.py](aula3.py) 9m
 - [x] Teste 2: Sobre print e str (prova)
-- [x] 20. Tipo int e float (números) - Introdução aos tipos de dados (aula4.py) 11m
-- [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados (aula5.py) 7m
+- [x] 20. Tipo int e float (números) - Introdução aos tipos de dados [aula4.py](aula4.py) 11m
+- [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados [aula5.py](aula5.py) 7m
 - [x] Teste 3: Sobre int, float e bool
-- [x] 22. Coerção de tipos (aula6.py) (convertendo um tipo para outro) 13m
-- [x] 23. Introdução às variáveis em Python (aula7.py) 12m
-- [x] 24. Exercício com variáveis e tipos de dados (aula8.py) 3m
-- [x] 25. Solução - exercício com variáveis e tipos de dados (aula8.py) 4m
+- [x] 22. Coerção de tipos [aula6.py](aula6.py) (convertendo um tipo para outro) 13m
+- [x] 23. Introdução às variáveis em Python [aula7.py](aula7.py) 12m
+- [x] 24. Exercício com variáveis e tipos de dados [aula8.py](aula8.py) 3m
+- [x] 25. Solução - exercício com variáveis e tipos de dados [aula8.py](aula8.py) 4m
 
 ### Operadores aritméticos
-- [x] 26. Introdução aos operadores aritméticos  (aula9.py)(matemática) 11m
-- [x] 27. Concatenação (+) e repetição (*) com operadores aritméticos (aula10.py) 3m
-- [x] 28. Precedência entre os operadores aritméticos (aula11.py) 7m
-- [x] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis (aula12.py) 3m
-- [x] 30. Solução exercício de programação - Cálculo do IMC(aula12.py) 2m
+- [x] 26. Introdução aos operadores aritméticos  [aula9.py](aula9.py)(matemática) 11m
+- [x] 27. Concatenação (+) e repetição (*) com operadores aritméticos [aula10.py](aula10.py) 3m
+- [x] 28. Precedência entre os operadores aritméticos [aula11.py](aula11.py) 7m
+- [x] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis [aula12.py](aula12.py) 3m
+- [x] 30. Solução exercício de programação - Cálculo do IMC[aula12.py](aula12.py) 2m
 
 ### Formatação de strings
-- [x] 31. Uma introdução às f-strings (formatação de strings) (aula13.py) 6m
-- [x] 32. Formatação de strings com o método format (aula14.py) 12m
+- [x] 31. Uma introdução às f-strings (formatação de strings) [aula13.py](aula13.py) 6m
+- [x] 32. Formatação de strings com o método format [aula14.py](aula14.py) 12m
 - [x] Teste 4: Teste seus conhecimentos
 
 ### Condicionais, input e operadores relacionais
-- [ ] 33. Usando a função input para coletar dados do usuário 9m
-- [ ] 34. Introdução aos blocos de código + if / elif / else (condicionais) 11m
-- [ ] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais 11m
-- [ ] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos 8m
-- [ ] 37. Operadores relacionais (de comparação) em Python 7m
-- [ ] 38. Exercício de programação com if e comparação 3m
-- [ ] 39. Solução - Exercício de programação com if e comparação 3m
+- [x] 33. Usando a função input para coletar dados do usuário [aula15.py](aula15.py)  9m
+- [x] 34. Introdução aos blocos de código + if / elif / else (condicionais) [aula16.py](aula16.py). 11m
+- [x] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais [aula17.py](aula17.py) 11m
+- [x] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos[aula18.py](aula18.py) 8m
+- [x] 37. Operadores relacionais (de comparação) em Python 7m [aula19.py](aula19.py) 
+- [x] 38. Exercício de programação com if e comparação [aula20.py](aula20.py)  3m
+- [x] 39. Solução - Exercício de programação com if e comparação [aula20.py](aula20.py) 3m
 
-# Operadores lógicos
-- [ ] 40. Operador Lógico "and" 12m
-- [ ] Teste 5: Sobre and
-- [ ] 41. Operador Lógico "or" 8m
-- [ ] 42. Operador lógico "not" 4m
-- [ ] 43. Operadores in e not in 7m
-- [ ] Teste 6: Teste seu conhecimento
+### Operadores lógicos
+- [x] 40. Operador Lógico "and" [aula21.py](aula21.py) 12m
+- [x] Teste 5: Sobre and
+- [x] 41. Operador Lógico "or" [aula22.py](aula22.py) 8m
+- [x] 42. Operador lógico "not" [aula23.py](aula23.py) 4m
+- [x] 43. Operadores in e not in [aula24.py](aula24.py) 7m
+- [x] Teste 6: Teste seu conhecimento
 
-# Interpolação e formatação de strings
-- [ ] 44. Interpolação de string com % em Python 7m
-- [ ] 45. Formatação de strings com f-strings 10m
-- [ ] 46. Fatiamento de strings e a função len 11m
-- [ ] 47. Exercício: teste seu conhecimento até aqui 3m
-- [ ] 48. Solução - Exercício: teste seu conhecimento até aqui 5m
+### Interpolação e formatação de strings
+- [x] 44. Interpolação de string com % em Python [aula25.py](aula25.py) 7m
+- [x] 45. Formatação de strings com f-strings [aula26.py](aula26.py) 10m
+- [x] 46. Fatiamento de strings e a função len [aula27.py](aula27.py)  11m
+- [x] 47. Exercício: teste seu conhecimento até aqui [aula28.py](aula28.py) 3m
+- [x] 48. Solução - Exercício: teste seu conhecimento até aqui [aula28.py](aula28.py) 5m
 
-# Introdução ao try e except
+### Introdução ao try e except
 - [ ] 49. Introdução ao try e except para capturar erros (exceptions) 15m
 - [ ] 50. Parte 1: Variáveis, constantes e complexidade de código 7m
 - [ ] 51. Parte 2: Variáveis, constantes e complexidade de código 9m
