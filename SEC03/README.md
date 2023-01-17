@@ -62,7 +62,7 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 48. Solução - Exercício: teste seu conhecimento até aqui [aula28.py](aula28.py) 5m
 
 ### Introdução ao try e except
-- [ ] 49. Introdução ao try e except para capturar erros (exceptions) 15m
+- [x] 49. Introdução ao try e except para capturar erros (exceptions)[aula29.py](aula29.py) 15m
 - [ ] 50. Parte 1: Variáveis, constantes e complexidade de código 7m
 - [ ] 51. Parte 2: Variáveis, constantes e complexidade de código 9m
 - [ ] 52. id - A identidade do valor que está na memória 3m
