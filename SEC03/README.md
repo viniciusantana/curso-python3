@@ -62,15 +62,49 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 48. Solução - Exercício: teste seu conhecimento até aqui [aula28.py](aula28.py) 5m
 
 ### Introdução ao try e except
+
+<details><summary>Anotações</summary>
+<p>
+
+- try -> tentar executar o código e caso ocorra um erro passa par o except
+- except -> ocorreu algum erro ao tentar executar
+
+```
+try:
+    ...
+except:
+    ...
+```
+- A função `isdigit(X)` verifica se uma entrada 'X' é um número e retorna True ou False
+- CONSTANTE = "Variáveis" que não vão mudar, sendo declarado em maiusculo
+```
+variavel = 10
+CONTANTE = 10 
+```
+- Flag (Bandeira) - Marcar um local
+- None = Não valor
+- is e is not = é ou não é (tipo, valor, identidade)
+- id = Identidade
+- A função `id(X)` retorna o local na memória de uma variável 'X'
+```
+variavel = "a"
+print(id(variavel)) # retorna local na memoria
+```
+
+
+</p>
+</details>
+
 - [x] 49. Introdução ao try e except para capturar erros (exceptions)[aula29.py](aula29.py) 15m
 - [x] 50. Parte 1: Variáveis, constantes e complexidade de código [aula30.py](aula30.py) 7m
 - [x] 51. Parte 2: Variáveis, constantes e complexidade de código [aula30.py](aula30.py) 9m
 - [x] 52. id - A identidade do valor que está na memória [aula31.py](aula31.py) 3m
 - [x] 53. Flags, is, is not e None [aula31.py](aula31.py) 11m
 - [x] 54. Exercícios - Enunciados aula32_exercicio[[01]](aula32_exercicio01.py) [[02]](aula32_exercicio02.py) [[03]](aula32_exercicio03.py).py 4m
-- [ ] 55. Solução 1 dos Exercícios - Enunciados 6m
-- [ ] 56. Solução 2 dos Exercícios - Enunciados 7m
-- [ ] 57. Solução 3 dos Exercícios - Enunciados 5m
+- [x] 55. Solução 1 dos Exercícios - Enunciados [aula32_solucao01.py](aula32_solucao01.py) 6m
+- [x] 56. Solução 2 dos Exercícios - Enunciados [aula32_solucao02.py](aula32_solucao02.py)  7m
+- [x] 57. Solução 3 dos Exercícios - Enunciados [aula32_solucao03.py](aula32_solucao03.py)  5m
+
 
 ### Estrutura de repetição while
 - [ ] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string 15m
