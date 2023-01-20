@@ -65,9 +65,9 @@ AO criar uam pasta não utilizar espaço, acento e números no começo
 - [x] 49. Introdução ao try e except para capturar erros (exceptions)[aula29.py](aula29.py) 15m
 - [x] 50. Parte 1: Variáveis, constantes e complexidade de código [aula30.py](aula30.py) 7m
 - [x] 51. Parte 2: Variáveis, constantes e complexidade de código [aula30.py](aula30.py) 9m
-- [x] 52. id - A identidade do valor que está na memória [aula31](aula31.py) 3m
-- [x] 53. Flags, is, is not e None [aula31](aula31.py) 11m
-- [ ] 54. Exercícios - Enunciados 4m
+- [x] 52. id - A identidade do valor que está na memória [aula31.py](aula31.py) 3m
+- [x] 53. Flags, is, is not e None [aula31.py](aula31.py) 11m
+- [x] 54. Exercícios - Enunciados aula32_exercicio[[01]](aula32_exercicio01.py) [[02]](aula32_exercicio02.py) [[03]](aula32_exercicio03.py).py 4m
 - [ ] 55. Solução 1 dos Exercícios - Enunciados 6m
 - [ ] 56. Solução 2 dos Exercícios - Enunciados 7m
 - [ ] 57. Solução 3 dos Exercícios - Enunciados 5m
