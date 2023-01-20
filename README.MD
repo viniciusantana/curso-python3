@@ -1,74 +1,62 @@
 # Curso de Python 3 do Básico Ao Avançado (com projetos reais)
-https://www.udemy.com/course/python-3-do-zero-ao-avancado/
-
-Plataforma: Udemy
+- [Link do curso](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+- Plataforma: Udemy
+- Instrutor: Luiz Otávio Miranda
+- Carga horária: 124 horas
+- Data que inicie este curso: 05/01/2023
+- Data de conclusão:
 
 ## Descrição do curso
 
-Iniciando em programação e quer aprender Python 3 do básico ao avançado? Este curso é completo e para você!
-Programador experiente em outra linguagem de programação e quer aprender Python 3? Este curso também é completo e pra você!
+Este é, sem sombra de dúvidas, o curso de Python 3 mais completo que você vai encontrar na atualidade.
 
-Mesmo que não tenha trabalhado com programação antes (ou se já é um desenvolvedor experiente), vou te guiar em todos os passos até que comece a criar seus próprios scripts, programas, sites e/ou automatizações em Python (na versão 3). Continuo atualizando constantemente este curso.
+Constantemente atualizado para as versões mais recentes do Python.
 
-Vamos iniciar do zero, desde a instalação do Python 3 até as partes bem mais avançadas da linguagem, como módulos de terceiros, bases de dados (MySQL, SQLite, etc...), web scraping, padrões de projeto GoF (Design Patterns), expressões regulares (RegEx) e muito mais. Alguns dos módulos que abordaremos  já são consagrados no mercado, como Django, Selenium, SQLite, Pytest, Unittest e vários outros.
-
-Criaremos projetos reais do zero, como um conversor de vídeos usando Python e ffmpeg, um gerador e validador de CPF (você vai aprender a validar CNPJ também) usando PyQT5, realizar cálculo de redes IPv4, um blog e um e-commerce básicos nos nossos projetos finais usando Django.
-
-Também faremos deploy da nossa aplicação em um servidor com Linux no Google Cloud Platform, ou seja, você vai ter que colocar a mão na massa para subir e configurar um servidor Linux e suas chaves SSH junto comigo (claro que te guiarei em todos os passos). 
+São mais de 120 horas de conteúdo, mais de 620 aulas sobre assuntos relacionados com a linguagem Python (do básico ao avançado) e inclui uma várias seções bônus sobre expressões regulares, SQL, HTML e CSS.
 
 Este curso está dividido da seguinte maneira:
 
 -    Para nível iniciante: Lógica de programação (partes básicas de Python 3)
-
 -    Para nível intermediário: Programação procedural e funcional (funções, repetições e partes relacionadas)
-
 -    Para experientes: Programação orientada a objetos (no modo Pythônico) - Inclui seção específica de POO com Padrões de Projeto GoF
-
 -    Módulos úteis: inclui aulas de módulos específicos do Python e de terceiros
-
 -    Bases de dados: inclui aulas relacionadas com bases de dados no Python
-
 -    Django: Criaremos alguns projetos (sites) utilizando o Django.
-
 -    Testes no Python (com TDD básico)
-
 -    Bônus: Expressões Regulares (Regex - re)
-
 -    Design Patterns (Padrões de projeto - GoF) - Programação Orientada a Objetos Avançada
-
 -    Bônus: seções de HTML5 e CSS3
-
 -    Bônus: seção de SQL com MySQL
 
-## Seção 1: Informações importantes
+# Sumário:
+- Cada seção tem uma pasta com os arquivos e informações das aulas estudadas.
+- Olhar o README.md de cada seção
+
+## [Seção 1: Informações importantes](/SEC01/)
 - 22 min
 - Mundanças e atualizações no início de 2023
 
-## Seção 2: Python + VS Code
+## [Seção 2: Python + VS Code](/SEC02/)
 - 1h 51m
 - Preparando ambiente de desenvolvimento
-
-### 25/12/2022 início e instalação
-### 25/12/2022 Configuração do Vscode 
 - compact folders
 - vs code shortcuts (atalhos)
-- extensão: code-runner
-- extensão: python
-- configurações adiconadas no vscode:
-´´´
-"explorer.compactFolders": false,
-"code-runner.runInTerminal": true,
-"code-runner.ignoreSelection": true,
-"code-runner.executorMap": {
-        "python": "cls ; python -u", <<< windows
-        "python": "clear ; python -u", <<< linux
-    },
-"python.defaultInterpreterPath": "python",
-´´´
+- extensões VS: code-runner/python
 
-## Seção 3: Iniciando na programação com python
+## [Seção 3: Iniciando na programação com python](/SEC03/)
 - 11h 30m
-- lógica de programação básica
+- lógica de programação básica.
+- Tipos de dados e função print.
+- Operadores aritméticos.
+- Formatação de strings.
+- Condicionais e input.
+- operadores relacionais.
+- Operadores lógicos.
+- Interpolação e formatação de strings
+- Introdução ao try e except
+- Estrutura de repetição while e for
+- Empacotamento e Desempacotamento
+- Operações ternárias
 
 ## Seção 4: Python intermediário.
 - 13h 31m
