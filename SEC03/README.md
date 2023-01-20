@@ -107,7 +107,16 @@ print(id(variavel)) # retorna local na memoria
 
 
 ### Estrutura de repetição while
-- [ ] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string 15m
+
+<details><summary>Anotações</summary>
+<p>
+- doc tipos: https://docs.python.org/pt-br/3/library/stdtypes.html
+- Imutáveis que vimos: str, int, float, bool
+- Olhar métodos de string na documentação acima.
+</p>
+</details>
+
+- [x] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string [aula33.py](aula33.py) 15m 
 - [ ] 59. while e break - Estrutura de repetição (Parte 1) 10m
 - [ ] 60. while - Condição em detalhes 9m
 - [ ] 61. Operadores de atribuição com operadores aritméticos 5m
