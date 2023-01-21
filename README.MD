@@ -32,18 +32,18 @@ Este curso está dividido da seguinte maneira:
 - Cada seção tem uma pasta com os arquivos e informações das aulas estudadas.
 - Olhar o README.md de cada seção
 
-## [Seção 1: Informações importantes](/SEC01/)
+## [Seção 1: Informações importantes](/SEC01/README.md)
 - 22 min
 - Mundanças e atualizações no início de 2023
 
-## [Seção 2: Python + VS Code](/SEC02/)
+## [Seção 2: Python + VS Code](/SEC02/README.md)
 - 1h 51m
 - Preparando ambiente de desenvolvimento
 - compact folders
 - vs code shortcuts (atalhos)
 - extensões VS: code-runner/python
 
-## [Seção 3: Iniciando na programação com python](/SEC03/)
+## [Seção 3: Iniciando na programação com python](/SEC03/README.md)
 - 11h 30m
 - lógica de programação básica.
 - Tipos de dados e função print.
