@@ -130,6 +130,15 @@ while true:
     break <=> Sai do while
 
 ```
+- Função `string.lowercase()` retorna string em minuscula
+- Função `string.startswith('X')` retorna True/False se string começar com `X`
+- Pegar erro e imprimir:
+```
+try:
+    ...
+except Exception as error:
+    print(error)
+```
 
 </p>
 </details>
@@ -142,9 +151,9 @@ while true:
 - [x] 63. while + while (laços internos)[aula38.py](aula38.py) 8m
 - [x] 64. Exercício guiado com while [aula39.py](aula39.py)4m
 - [x] 65. Solução do exercício guiado com while [aula39.py](aula39.py) 6m
-- [ ] 66. Exercício guiado - Calculadora - Parte 1 9m
-- [ ] 67. Exercício guiado - Calculadora - Parte 2 9m
-- [ ] 68. Exercício guiado - Calculadora - Parte 3 5m
+- [x] 66. Exercício guiado - Calculadora - Parte 1 [aula40.py](aula40.py) 9m
+- [x] 67. Exercício guiado - Calculadora - Parte 2 [aula40.py](aula40.py) 9m
+- [x] 68. Exercício guiado - Calculadora - Parte 3 [aula40.py](aula40.py) 5m
 - [ ] 69. while / else (recurso peculiar do Python) 5m
 - [ ] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) 14m
 - [ ] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? 7m
