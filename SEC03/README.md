@@ -162,7 +162,13 @@ except Exception as error:
 - [x] Teste 7: Teste
 
 ### Estrutura de repetição for
-- [ ] 72. Introdução ao for / in - estrutura de repetição para coisas finitas 9m
+<details><summary>Anotações</summary>
+<p>
+- ....
+</p>
+</details>
+
+- [x] 72. Introdução ao for / in - estrutura de repetição para coisas finitas [aula43.py](aula43.py) 9m
 - [ ] 73. range + for para usar intervalos de números 8m
 - [ ] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador) 15m
 - [ ] 75. O que aprendemos com while também funciona no for (continue, break, else, etc) 5m
