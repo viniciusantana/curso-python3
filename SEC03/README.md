@@ -169,7 +169,7 @@ except Exception as error:
 </details>
 
 - [x] 72. Introdução ao for / in - estrutura de repetição para coisas finitas [aula43.py](aula43.py) 9m
-- [ ] 73. range + for para usar intervalos de números 8m
+- [x] 73. range + for para usar intervalos de números [aula44.py](aula44.py) 8m
 - [ ] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador) 15m
 - [ ] 75. O que aprendemos com while também funciona no for (continue, break, else, etc) 5m
 - [ ] 76. Exercício - Jogo da palavra secreta 5m
