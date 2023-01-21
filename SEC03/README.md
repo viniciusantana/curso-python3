@@ -164,13 +164,30 @@ except Exception as error:
 ### Estrutura de repetição for
 <details><summary>Anotações</summary>
 <p>
-- ....
+
+### Funcionamento do for (74):
+- Iterável -> str, range, etc `(__iter__)`
+- Iterador -> quem sabe entregar um valor por vez
+- next -> me entregue o próximo valor
+- iter -> me entregue seu iterador
+
+```
+texto = 'Luiz'  # iterável
+iterador = iter(texto)  # iterator -> retorna um local na memoria
+letra = next(iteratador) # retorna a letra: L
+letra = next(iteratador) # retorna a letra: u
+letra = next(iteratador) # retorna a letra: i
+letra = next(iteratador) # retorna a letra: z
+letra = next(iteratador) # retorna ERRO: StopIteration
+```
+- ...
+
 </p>
 </details>
 
 - [x] 72. Introdução ao for / in - estrutura de repetição para coisas finitas [aula43.py](aula43.py) 9m
 - [x] 73. range + for para usar intervalos de números [aula44.py](aula44.py) 8m
-- [ ] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador) 15m
+- [x] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)[aula45.py](aula45.py) 15m
 - [ ] 75. O que aprendemos com while também funciona no for (continue, break, else, etc) 5m
 - [ ] 76. Exercício - Jogo da palavra secreta 5m
 - [ ] 77. Sobre exercícios - não saber é normal 3m
