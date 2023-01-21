@@ -7,7 +7,7 @@
 - [x] 14. Me ajude a produzir conteúdo gratuito (texto)
 - [x] 15. Criando meu primeiro módulo Python (*.py) 4m
 ```
-AO criar uam pasta não utilizar espaço, acento e números no começo
+Ao criar uma pasta/arquivo não utilizar espaços, acentos ou iniciar com números
 ```
 - [x] 16. O interpretador do Python + comentários de código. [aula1.py](aula1.py) 4m 
 - [x] 17. Docstrings como comentários. [aula1.py](aula1.py) 5m
@@ -130,8 +130,10 @@ while true:
     break <=> Sai do while
 
 ```
-- Função `string.lowercase()` retorna string em minuscula
+- Função `string.lower()` retorna string em minuscula
+- Função `string.upper()` retorna string em maiuscula
 - Função `string.startswith('X')` retorna True/False se string começar com `X`
+- Função `string.count('X')` retorna a quantidade de vezes que `X` aparece em uma string
 - Pegar erro e imprimir:
 ```
 try:
@@ -155,9 +157,9 @@ except Exception as error:
 - [x] 67. Exercício guiado - Calculadora - Parte 2 [aula40.py](aula40.py) 9m
 - [x] 68. Exercício guiado - Calculadora - Parte 3 [aula40.py](aula40.py) 5m
 - [x] 69. while / else (recurso peculiar do Python) [aula41.py](aula41.py) 5m
-- [ ] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) 14m
-- [ ] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? 7m
-- [ ] Teste 7: Teste
+- [x] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) [aula42.py](aula42.py) 14m
+- [x] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? [aula42.py](aula42.py) 7m
+- [x] Teste 7: Teste
 
 ### Estrutura de repetição for
 - [ ] 72. Introdução ao for / in - estrutura de repetição para coisas finitas 9m
