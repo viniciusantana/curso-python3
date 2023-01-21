@@ -113,13 +113,17 @@ print(id(variavel)) # retorna local na memoria
 - doc tipos: https://docs.python.org/pt-br/3/library/stdtypes.html
 - Imutáveis que vimos: str, int, float, bool
 - Olhar métodos de string na documentação acima.
+- Operadores de atribuição:
+```
+=   +=   -=   *=   /=   //=   **=   %=
+```
 </p>
 </details>
 
 - [x] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string [aula33.py](aula33.py) 15m 
 - [x] 59. while e break - Estrutura de repetição (Parte 1) [aula34.py](aula34.py) 10m
 - [x] 60. while - Condição em detalhes [aula35.py](aula35.py) 9m
-- [ ] 61. Operadores de atribuição com operadores aritméticos 5m
+- [x] 61. Operadores de atribuição com operadores aritméticos [aula36.py](aula36.py) 5m
 - [ ] 62. while + continue - pulando alguma repetição 8m
 - [ ] 63. while + while (laços internos) 8m
 - [ ] 64. Exercício guiado com while 4m
