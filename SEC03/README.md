@@ -110,13 +110,27 @@ print(id(variavel)) # retorna local na memoria
 
 <details><summary>Anotações</summary>
 <p>
-- doc tipos: https://docs.python.org/pt-br/3/library/stdtypes.html
-- Imutáveis que vimos: str, int, float, bool
+
+- Documentação tipos: https://docs.python.org/pt-br/3/library/stdtypes.html
 - Olhar métodos de string na documentação acima.
+- Imutáveis que vimos: str, int, float, bool
 - Operadores de atribuição:
+
 ```
 =   +=   -=   *=   /=   //=   **=   %=
 ```
+
+- While (boleano):
+
+```
+while true:
+    ...
+    continue <=> deixa de executar restante do código e retorna ao início do while
+    ...
+    break <=> Sai do while
+
+```
+
 </p>
 </details>
 
@@ -124,7 +138,7 @@ print(id(variavel)) # retorna local na memoria
 - [x] 59. while e break - Estrutura de repetição (Parte 1) [aula34.py](aula34.py) 10m
 - [x] 60. while - Condição em detalhes [aula35.py](aula35.py) 9m
 - [x] 61. Operadores de atribuição com operadores aritméticos [aula36.py](aula36.py) 5m
-- [ ] 62. while + continue - pulando alguma repetição 8m
+- [x] 62. while + continue - pulando alguma repetição [aula37.py](aula37.py) 8m
 - [ ] 63. while + while (laços internos) 8m
 - [ ] 64. Exercício guiado com while 4m
 - [ ] 65. Solução do exercício guiado com while 6m
