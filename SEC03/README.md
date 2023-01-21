@@ -7,7 +7,7 @@
 - [x] 14. Me ajude a produzir conteúdo gratuito (texto)
 - [x] 15. Criando meu primeiro módulo Python (*.py) 4m
 ```
-AO criar uam pasta não utilizar espaço, acento e números no começo
+Ao criar uma pasta/arquivo não utilizar espaços, acentos ou iniciar com números
 ```
 - [x] 16. O interpretador do Python + comentários de código. [aula1.py](aula1.py) 4m 
 - [x] 17. Docstrings como comentários. [aula1.py](aula1.py) 5m
@@ -107,21 +107,59 @@ print(id(variavel)) # retorna local na memoria
 
 
 ### Estrutura de repetição while
-- [ ] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string 15m
-- [ ] 59. while e break - Estrutura de repetição (Parte 1) 10m
-- [ ] 60. while - Condição em detalhes 9m
-- [ ] 61. Operadores de atribuição com operadores aritméticos 5m
-- [ ] 62. while + continue - pulando alguma repetição 8m
-- [ ] 63. while + while (laços internos) 8m
-- [ ] 64. Exercício guiado com while 4m
-- [ ] 65. Solução do exercício guiado com while 6m
-- [ ] 66. Exercício guiado - Calculadora - Parte 1 9m
-- [ ] 67. Exercício guiado - Calculadora - Parte 2 9m
-- [ ] 68. Exercício guiado - Calculadora - Parte 3 5m
-- [ ] 69. while / else (recurso peculiar do Python) 5m
-- [ ] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) 14m
-- [ ] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? 7m
-- [ ] Teste 7: Teste
+
+<details><summary>Anotações</summary>
+<p>
+
+- Documentação tipos: https://docs.python.org/pt-br/3/library/stdtypes.html
+- Olhar métodos de string na documentação acima.
+- Imutáveis que vimos: str, int, float, bool
+- Operadores de atribuição:
+
+```
+=   +=   -=   *=   /=   //=   **=   %=
+```
+
+- While (boleano):
+
+```
+while true:
+    ...
+    continue <=> deixa de executar restante do código e retorna ao início do while
+    ...
+    break <=> Sai do while
+
+```
+- Função `string.lower()` retorna string em minuscula
+- Função `string.upper()` retorna string em maiuscula
+- Função `string.startswith('X')` retorna True/False se string começar com `X`
+- Função `string.count('X')` retorna a quantidade de vezes que `X` aparece em uma string
+- Pegar erro e imprimir:
+```
+try:
+    ...
+except Exception as error:
+    print(error)
+```
+
+</p>
+</details>
+
+- [x] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string [aula33.py](aula33.py) 15m 
+- [x] 59. while e break - Estrutura de repetição (Parte 1) [aula34.py](aula34.py) 10m
+- [x] 60. while - Condição em detalhes [aula35.py](aula35.py) 9m
+- [x] 61. Operadores de atribuição com operadores aritméticos [aula36.py](aula36.py) 5m
+- [x] 62. while + continue - pulando alguma repetição [aula37.py](aula37.py) 8m
+- [x] 63. while + while (laços internos)[aula38.py](aula38.py) 8m
+- [x] 64. Exercício guiado com while [aula39.py](aula39.py)4m
+- [x] 65. Solução do exercício guiado com while [aula39.py](aula39.py) 6m
+- [x] 66. Exercício guiado - Calculadora - Parte 1 [aula40.py](aula40.py) 9m
+- [x] 67. Exercício guiado - Calculadora - Parte 2 [aula40.py](aula40.py) 9m
+- [x] 68. Exercício guiado - Calculadora - Parte 3 [aula40.py](aula40.py) 5m
+- [x] 69. while / else (recurso peculiar do Python) [aula41.py](aula41.py) 5m
+- [x] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) [aula42.py](aula42.py) 14m
+- [x] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? [aula42.py](aula42.py) 7m
+- [x] Teste 7: Teste
 
 ### Estrutura de repetição for
 - [ ] 72. Introdução ao for / in - estrutura de repetição para coisas finitas 9m
