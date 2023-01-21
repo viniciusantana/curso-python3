@@ -154,7 +154,7 @@ except Exception as error:
 - [x] 66. Exercício guiado - Calculadora - Parte 1 [aula40.py](aula40.py) 9m
 - [x] 67. Exercício guiado - Calculadora - Parte 2 [aula40.py](aula40.py) 9m
 - [x] 68. Exercício guiado - Calculadora - Parte 3 [aula40.py](aula40.py) 5m
-- [ ] 69. while / else (recurso peculiar do Python) 5m
+- [x] 69. while / else (recurso peculiar do Python) [aula41.py](aula41.py) 5m
 - [ ] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while) 14m
 - [ ] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? 7m
 - [ ] Teste 7: Teste
