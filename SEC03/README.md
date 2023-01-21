@@ -188,7 +188,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 72. Introdução ao for / in - estrutura de repetição para coisas finitas [aula43.py](aula43.py) 9m
 - [x] 73. range + for para usar intervalos de números [aula44.py](aula44.py) 8m
 - [x] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)[aula45.py](aula45.py) 15m
-- [ ] 75. O que aprendemos com while também funciona no for (continue, break, else, etc) 5m
+- [x] 75. O que aprendemos com while também funciona no for (continue, break, else, etc) 5m
 - [ ] 76. Exercício - Jogo da palavra secreta 5m
 - [ ] 77. Sobre exercícios - não saber é normal 3m
 - [ ] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta 8m
