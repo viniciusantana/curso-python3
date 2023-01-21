@@ -117,7 +117,7 @@ print(id(variavel)) # retorna local na memoria
 </details>
 
 - [x] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string [aula33.py](aula33.py) 15m 
-- [ ] 59. while e break - Estrutura de repetição (Parte 1) 10m
+- [x] 59. while e break - Estrutura de repetição (Parte 1) [aula31.py](aula31.py) 10m
 - [ ] 60. while - Condição em detalhes 9m
 - [ ] 61. Operadores de atribuição com operadores aritméticos 5m
 - [ ] 62. while + continue - pulando alguma repetição 8m
