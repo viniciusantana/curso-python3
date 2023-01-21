@@ -140,7 +140,7 @@ while true:
 - [x] 61. Operadores de atribuição com operadores aritméticos [aula36.py](aula36.py) 5m
 - [x] 62. while + continue - pulando alguma repetição [aula37.py](aula37.py) 8m
 - [x] 63. while + while (laços internos)[aula38.py](aula38.py) 8m
-- [ ] 64. Exercício guiado com while 4m
+- [x] 64. Exercício guiado com while [aula39.py](aula39.py)4m
 - [ ] 65. Solução do exercício guiado com while 6m
 - [ ] 66. Exercício guiado - Calculadora - Parte 1 9m
 - [ ] 67. Exercício guiado - Calculadora - Parte 2 9m
