@@ -194,7 +194,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 77. Sobre exercícios - não saber é normal 3m
 - [x] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta [aula47gabarito.py](aula47gabarito.py) 8m
 - [x] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta [aula47gabarito.py](aula47gabarito.py) 8m
-- [ ] 80. Tipo list - Introdução às listas mutáveis em Python 10m
+- [x] 80. Tipo list - Introdução às listas mutáveis em Python [aula48.py](aula48.py) 10m
 - [ ] 81. Alterando uma lista com índices, del, append e pop (Tipo list) 14m
 - [ ] 82. Inserindo itens em qualquer índice da lista com insert (Tipo list) 9m
 - [ ] 83. Concatenando e estendendo listas em Python 5m
