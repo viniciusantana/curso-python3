@@ -191,9 +191,9 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)[aula45.py](aula45.py) 15m
 - [x] 75. O que aprendemos com while também funciona no for (continue, break, else, etc)[aula46.py](aula46.py) 5m
 - [x] 76. Exercício - Jogo da palavra secreta [aula47.py](aula47.py) 5m
-- [ ] 77. Sobre exercícios - não saber é normal 3m
-- [ ] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta 8m
-- [ ] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta 8m
+- [x] 77. Sobre exercícios - não saber é normal 3m
+- [x] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta [aula47gabarito.py](aula47gabarito.py) 8m
+- [x] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta [aula47gabarito.py](aula47gabarito.py) 8m
 - [ ] 80. Tipo list - Introdução às listas mutáveis em Python 10m
 - [ ] 81. Alterando uma lista com índices, del, append e pop (Tipo list) 14m
 - [ ] 82. Inserindo itens em qualquer índice da lista com insert (Tipo list) 9m
