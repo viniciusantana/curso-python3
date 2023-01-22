@@ -165,7 +165,8 @@ except Exception as error:
 <details><summary>Anotações</summary>
 <p>
 
-### Funcionamento do for (74):
+-----------------
+#### Funcionamento do for (74):
 - Iterável -> str, range, etc `(__iter__)`
 - Iterador -> quem sabe entregar um valor por vez
 - next -> me entregue o próximo valor
@@ -180,7 +181,7 @@ letra = next(iteratador) # retorna a letra: i
 letra = next(iteratador) # retorna a letra: z
 letra = next(iteratador) # retorna ERRO: StopIteration
 ```
-- ...
+-----------------
 
 </p>
 </details>
@@ -189,7 +190,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 73. range + for para usar intervalos de números [aula44.py](aula44.py) 8m
 - [x] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)[aula45.py](aula45.py) 15m
 - [x] 75. O que aprendemos com while também funciona no for (continue, break, else, etc)[aula46.py](aula46.py) 5m
-- [ ] 76. Exercício - Jogo da palavra secreta [aula47.py](aula47.py) 5m
+- [x] 76. Exercício - Jogo da palavra secreta [aula47.py](aula47.py) 5m
 - [ ] 77. Sobre exercícios - não saber é normal 3m
 - [ ] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta 8m
 - [ ] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta 8m
