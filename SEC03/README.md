@@ -222,7 +222,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 83. Concatenando e estendendo listas em Python [aula48_4.py](aula48_4.py) 5m
 - [x] 84. Cuidados com tipos de dados mutáveis - list e copy  [aula48_5.py](aula48_5.py)8m
 - [x] 85. for in com tipo list [aula49.py](aula49.py) 2m
-- [ ] 86. Exercício - exiba os índices da lista (aula com solução) 4m
+- [x] 86. Exercício - exiba os índices da lista [aula50.py](aula50.py)(aula com solução) 4m
 
 ### Empacotamento e Desempacotamento
 - [ ] 87. Introdução ao empacotamento e desempacotamento 7m
