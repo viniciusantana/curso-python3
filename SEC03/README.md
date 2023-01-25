@@ -162,21 +162,67 @@ except Exception as error:
 - [x] Teste 7: Teste
 
 ### Estrutura de repetição for
-- [ ] 72. Introdução ao for / in - estrutura de repetição para coisas finitas 9m
-- [ ] 73. range + for para usar intervalos de números 8m
-- [ ] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador) 15m
-- [ ] 75. O que aprendemos com while também funciona no for (continue, break, else, etc) 5m
-- [ ] 76. Exercício - Jogo da palavra secreta 5m
-- [ ] 77. Sobre exercícios - não saber é normal 3m
-- [ ] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta 8m
-- [ ] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta 8m
-- [ ] 80. Tipo list - Introdução às listas mutáveis em Python 10m
-- [ ] 81. Alterando uma lista com índices, del, append e pop (Tipo list) 14m
-- [ ] 82. Inserindo itens em qualquer índice da lista com insert (Tipo list) 9m
-- [ ] 83. Concatenando e estendendo listas em Python 5m
-- [ ] 84. Cuidados com tipos de dados mutáveis - list e copy 8m
-- [ ] 85. for in com tipo list 2m
-- [ ] 86. Exercício - exiba os índices da lista (aula com solução) 4m
+<details><summary>Anotações</summary>
+<p>
+
+-----------------
+#### Funcionamento do for (74):
+- Iterável -> str, range, etc `(__iter__)`
+- Iterador -> quem sabe entregar um valor por vez
+- next -> me entregue o próximo valor
+- iter -> me entregue seu iterador
+
+```
+texto = 'Luiz'  # iterável
+iterador = iter(texto)  # iterator -> retorna um local na memoria
+letra = next(iteratador) # retorna a letra: L
+letra = next(iteratador) # retorna a letra: u
+letra = next(iteratador) # retorna a letra: i
+letra = next(iteratador) # retorna a letra: z
+letra = next(iteratador) # retorna ERRO: StopIteration
+```
+
+#### Lista
+- Tipo list - Mutável
+- Suporta vários valores de qualquer tipo
+- Conhecimentos reutilizáveis - índices e fatiamento
+- Métodos úteis:
+    - append - Adiciona um item ao final
+    - insert - Adiciona um item no índice escolhido
+    - pop - Remove do final ou do índice escolhido
+    - del - apaga um índice
+    - clear - limpa a lista
+    - extend - estende a lista
+    - `+ -` concatena listas
+    - copy - serve para copiar uma lista para outra variável
+- CRUD
+    - Create/Criar
+    - Read/Ler:
+    - Update/Alterar
+    - Delete/Apagar
+```
+```
+
+-----------------
+
+</p>
+</details>
+
+- [x] 72. Introdução ao for / in - estrutura de repetição para coisas finitas [aula43.py](aula43.py) 9m
+- [x] 73. range + for para usar intervalos de números [aula44.py](aula44.py) 8m
+- [x] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)[aula45.py](aula45.py) 15m
+- [x] 75. O que aprendemos com while também funciona no for (continue, break, else, etc)[aula46.py](aula46.py) 5m
+- [x] 76. Exercício - Jogo da palavra secreta [aula47.py](aula47.py) 5m
+- [x] 77. Sobre exercícios - não saber é normal 3m
+- [x] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta [aula47gabarito.py](aula47gabarito.py) 8m
+- [x] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta [aula47gabarito.py](aula47gabarito.py) 8m
+- [x] 80. Tipo list - Introdução às listas mutáveis em Python [aula48_1.py](aula48_1.py) 10m
+- [x] 81. Alterando uma lista com índices, del, append e pop (Tipo list) [aula48_2.py](aula48_2.py) 14m
+- [x] 82. Inserindo itens em qualquer índice da lista com insert [aula48_3.py](aula48_3.py) (Tipo list) 9m
+- [x] 83. Concatenando e estendendo listas em Python [aula48_4.py](aula48_4.py) 5m
+- [x] 84. Cuidados com tipos de dados mutáveis - list e copy  [aula48_5.py](aula48_5.py)8m
+- [x] 85. for in com tipo list [aula49.py](aula49.py) 2m
+- [x] 86. Exercício - exiba os índices da lista [aula50.py](aula50.py)(aula com solução) 4m
 
 ### Empacotamento e Desempacotamento
 - [ ] 87. Introdução ao empacotamento e desempacotamento 7m
