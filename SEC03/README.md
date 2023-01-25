@@ -161,11 +161,38 @@ except Exception as error:
 - [x] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? [aula42.py](aula42.py) 7m
 - [x] Teste 7: Teste
 
-### Estrutura de repetição for
+### Estrutura de repetição for e tipo List
 <details><summary>Anotações</summary>
 <p>
 
 -----------------
+#### For:
+- for/in sting:
+```
+
+for letra in texto:
+    print(letra)
+```
+
+- range -> range(start, stop, step)
+```
+for numeros in range(0, 5)
+    print(numero) # 0 1 2 3 4
+
+for numeros in range(0, 5, 2)
+    print(numero) # 0 2 4 6 8
+
+for numeros in range(len('palavra'))
+    print(numero) # 0 1 2 3 4 5 6
+
+```
+- range(len(string)) 
+- break - pode ser usado para sair do loop
+- continue - pode ser usado para para um loop e ir ao próximo
+- else - pode ser usado após finalizar o loop caso não seja usado o break
+
+
+
 #### Funcionamento do for (74):
 - Iterável -> str, range, etc `(__iter__)`
 - Iterador -> quem sabe entregar um valor por vez
@@ -200,9 +227,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
     - Read/Ler:
     - Update/Alterar
     - Delete/Apagar
-```
-```
-
+- Criar indice com `for/in` +  `range(len(lista))`: ver [aula50.py](aula50.py)
 -----------------
 
 </p>
