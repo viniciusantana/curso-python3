@@ -221,7 +221,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 82. Inserindo itens em qualquer índice da lista com insert [aula48_3.py](aula48_3.py) (Tipo list) 9m
 - [x] 83. Concatenando e estendendo listas em Python [aula48_4.py](aula48_4.py) 5m
 - [x] 84. Cuidados com tipos de dados mutáveis - list e copy  [aula48_5.py](aula48_5.py)8m
-- [ ] 85. for in com tipo list 2m
+- [x] 85. for in com tipo list [aula49.py](aula49.py) 2m
 - [ ] 86. Exercício - exiba os índices da lista (aula com solução) 4m
 
 ### Empacotamento e Desempacotamento
