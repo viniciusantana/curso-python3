@@ -250,7 +250,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 86. Exercício - exiba os índices da lista [aula50.py](aula50.py)(aula com solução) 4m
 
 ### Empacotamento e Desempacotamento
-- [ ] 87. Introdução ao empacotamento e desempacotamento 7m
+- [x] 87. Introdução ao empacotamento e desempacotamento [aula51.py](aula51.py) 7m
 - [ ] 88. Tipo tuple (tuplas) 5m
 - [ ] 89. enumerate para enumerar valores de iteráveis (pegar índices) 12m
 - [ ] 90. Exercício - crie uma lista de compras com listas 4m
