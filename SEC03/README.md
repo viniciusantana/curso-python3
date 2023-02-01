@@ -272,7 +272,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 87. Introdução ao empacotamento e desempacotamento [aula51.py](aula51.py) 7m
 - [x] 88. Tipo tuple [aula52.py](aula52.py) (tuplas) 5m
 - [x] 89. enumerate para enumerar valores de iteráveis (pegar índices) [aula53.py](aula53.py)  12m
-- [ ] 90. Exercício - crie uma lista de compras com listas 4m
+- [x] 90. Exercício - crie uma lista de compras com listas [Meu Exercício](aula54_0_exercicio.py) 4m
 - [ ] 91. Solução do exercício - crie uma lista de compras com listas (com try / except) 11m
 - [ ] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal 9m
 - [ ] 93. split, join e strip são métodos muito úteis da str 12m
