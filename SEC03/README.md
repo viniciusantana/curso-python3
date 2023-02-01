@@ -259,6 +259,11 @@ letra = next(iteratador) # retorna ERRO: StopIteration
     - Lista: `lista = [1, 2, 3]`
 - A função `tuple(L)` converte uma lista `L` em uma tupla
 - A função `list(T)` converte uma tupla `T` em uma lista
+- `enumerate(lista)` - enumera iteráveis (índices) aula53
+    - Ex:`enumerate(['a', 'b']) => [(0, 'a'), (1, 'b')]`
+    - Ao ser usado ele fica vazio no final.
+    - Pode ser convertido para lista/tupla com `list(T)` / `tuple(L)`
+
 
 
 </p>
@@ -266,7 +271,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 
 - [x] 87. Introdução ao empacotamento e desempacotamento [aula51.py](aula51.py) 7m
 - [x] 88. Tipo tuple [aula52.py](aula52.py) (tuplas) 5m
-- [ ] 89. enumerate para enumerar valores de iteráveis (pegar índices) 12m
+- [x] 89. enumerate para enumerar valores de iteráveis (pegar índices) [aula53.py](aula53.py)  12m
 - [ ] 90. Exercício - crie uma lista de compras com listas 4m
 - [ ] 91. Solução do exercício - crie uma lista de compras com listas (com try / except) 11m
 - [ ] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal 9m
