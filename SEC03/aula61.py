@@ -20,3 +20,26 @@ contrário disso:
     resultado é o valor da conta
 O primeiro dígito do CPF é 7
 """
+cpf = '746.824.890-70'
+# cpfdigitos = cpf.replace('.', '').replace('-', '')
+# print(cpf[12:14]) # 70
+# print(cpf[0:11]) # 746.824.890
+# print(cpf[0:11].replace('.', '')) # 746824890
+
+
+# cpf8digitos = ''
+multiplicador = 10
+soma = 0
+
+for i in cpf:
+  if i == '-':
+    break
+  if i.isdigit():
+    # cpf8digitos += i
+    soma += int(i) * multiplicador
+    multiplicador -= 1
+
+primeiroDigito = (soma * 10) % 11
+primeiroDigito = 0 if primeiroDigito > 9 else primeiroDigito
+
+print(primeiroDigito)
