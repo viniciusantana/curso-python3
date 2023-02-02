@@ -285,6 +285,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
     - `python -c 'cmd'` (comando)
     - `python -i mod.py` (interativo com mod)
     - `python --help` (ajuda)
+- Desempacotamento  96 -> [aula59.py](aula59.py)
 
 
 -----------------
@@ -301,7 +302,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 93. split, join e strip são métodos muito úteis da str [aula56.py](aula56.py) 12m
 - [x] 94. Listas dentro de listas (iteráveis dentro de iteráveis) [aula57.py](aula57.py) 8m
 - [x] 95. Detalhes sobre o interpretador do Python [aula58.py](aula58.py)  17m
-- [ ] 96. Desempacotamento em chamadas de funções 7m
+- [x] 96. Desempacotamento em chamadas de funções [aula59.py](aula59.py) 7m
 - [ ] 97. Operação ternária com Python (if e else de uma linha) 7m
 - [ ] 98. Exercício - Gerar o primeiro dígito de um CPF com Python 10m
 - [ ] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python 9m
