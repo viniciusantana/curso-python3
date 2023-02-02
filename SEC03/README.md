@@ -303,7 +303,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 94. Listas dentro de listas (iteráveis dentro de iteráveis) [aula57.py](aula57.py) 8m
 - [x] 95. Detalhes sobre o interpretador do Python [aula58.py](aula58.py)  17m
 - [x] 96. Desempacotamento em chamadas de funções [aula59.py](aula59.py) 7m
-- [ ] 97. Operação ternária com Python (if e else de uma linha) 7m
+- [x] 97. Operação ternária com Python (if e else de uma linha) [aula59.py](aula59.py) 7m
 - [ ] 98. Exercício - Gerar o primeiro dígito de um CPF com Python 10m
 - [ ] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python 9m
 - [ ] 100. Exercício - Gerar o segundo dígito de um CPF com Python 4m
