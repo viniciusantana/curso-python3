@@ -277,6 +277,15 @@ letra = next(iteratador) # retorna ERRO: StopIteration
     - split - divide uma string e transforma em (list) `str.split()`
     - join - une em uma string `str.join(str/list/tupla)`
     - strip - corta o espaço no final e no começo se tiver.
+- Interpretador do Python
+    - `python --version` ou `python -V` (ver a versão do python)
+    - `python mod.py` (executa o mod)
+    - `python -u` (unbuffered) Descarrega o buffer
+    - `python -m mod` (lib mod como script)
+    - `python -c 'cmd'` (comando)
+    - `python -i mod.py` (interativo com mod)
+    - `python --help` (ajuda)
+
 
 -----------------
 
@@ -291,7 +300,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal [aula55.py](aula55.py)  9m
 - [x] 93. split, join e strip são métodos muito úteis da str [aula56.py](aula56.py) 12m
 - [x] 94. Listas dentro de listas (iteráveis dentro de iteráveis) [aula57.py](aula57.py) 8m
-- [ ] 95. Detalhes sobre o interpretador do Python 17m
+- [x] 95. Detalhes sobre o interpretador do Python [aula58.py](aula58.py)  17m
 - [ ] 96. Desempacotamento em chamadas de funções 7m
 - [ ] 97. Operação ternária com Python (if e else de uma linha) 7m
 - [ ] 98. Exercício - Gerar o primeiro dígito de um CPF com Python 10m
