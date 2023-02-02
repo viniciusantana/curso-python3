@@ -289,7 +289,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 90. Exercício - crie uma lista de compras com listas [Meu Exercício](aula54_0_exercicio.py) 4m
 - [x] 91. Solução do exercício - crie uma lista de compras com listas [Gabarito](aula54_1_solucao.py) (com try / except) 11m
 - [x] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal [aula55.py](aula55.py)  9m
-- [x] 93. split, join e strip são métodos muito úteis da str [aula55.py](aula55.py) 12m
+- [x] 93. split, join e strip são métodos muito úteis da str [aula56.py](aula56.py) 12m
 - [ ] 94. Listas dentro de listas (iteráveis dentro de iteráveis) 8m
 - [ ] 95. Detalhes sobre o interpretador do Python 17m
 - [ ] 96. Desempacotamento em chamadas de funções 7m
