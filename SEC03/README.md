@@ -161,11 +161,38 @@ except Exception as error:
 - [x] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase? [aula42.py](aula42.py) 7m
 - [x] Teste 7: Teste
 
-### Estrutura de repetição for
+### Estrutura de repetição for e tipo List
 <details><summary>Anotações</summary>
 <p>
 
 -----------------
+#### For:
+- for/in sting:
+```
+
+for letra in texto:
+    print(letra)
+```
+
+- range -> range(start, stop, step)
+```
+for numeros in range(0, 5)
+    print(numero) # 0 1 2 3 4
+
+for numeros in range(0, 5, 2)
+    print(numero) # 0 2 4 6 8
+
+for numeros in range(len('palavra'))
+    print(numero) # 0 1 2 3 4 5 6
+
+```
+- range(len(string)) 
+- break - pode ser usado para sair do loop
+- continue - pode ser usado para para um loop e ir ao próximo
+- else - pode ser usado após finalizar o loop caso não seja usado o break
+
+
+
 #### Funcionamento do for (74):
 - Iterável -> str, range, etc `(__iter__)`
 - Iterador -> quem sabe entregar um valor por vez
@@ -200,9 +227,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
     - Read/Ler:
     - Update/Alterar
     - Delete/Apagar
-```
-```
-
+- Criar indice com `for/in` +  `range(len(lista))`: ver [aula50.py](aula50.py)
 -----------------
 
 </p>
@@ -225,20 +250,64 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 86. Exercício - exiba os índices da lista [aula50.py](aula50.py)(aula com solução) 4m
 
 ### Empacotamento e Desempacotamento
-- [ ] 87. Introdução ao empacotamento e desempacotamento 7m
-- [ ] 88. Tipo tuple (tuplas) 5m
-- [ ] 89. enumerate para enumerar valores de iteráveis (pegar índices) 12m
-- [ ] 90. Exercício - crie uma lista de compras com listas 4m
-- [ ] 91. Solução do exercício - crie uma lista de compras com listas (com try / except) 11m
-- [ ] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal 9m
-- [ ] 93. split, join e strip são métodos muito úteis da str 12m
-- [ ] 94. Listas dentro de listas (iteráveis dentro de iteráveis) 8m
-- [ ] 95. Detalhes sobre o interpretador do Python 17m
-- [ ] 96. Desempacotamento em chamadas de funções 7m
-- [ ] 97. Operação ternária com Python (if e else de uma linha) 7m
-- [ ] 98. Exercício - Gerar o primeiro dígito de um CPF com Python 10m
-- [ ] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python 9m
-- [ ] 100. Exercício - Gerar o segundo dígito de um CPF com Python 4m
-- [ ] 101. Solução do exercício - Gerar o segundo dígito de um CPF com Python9m
-- [ ] 102. Possíveis problemas e soluções para nosso algoritmo do CPF 14m
-- [ ] 103. Criando um gerador de CPFs com nosso algoritmo e Python
+
+<details><summary>Anotações</summary>
+<p>
+
+-----------------
+
+- Tipo tupla - Uma lista imutável
+    - Tupla: `tupla = 1, 2, 3` ou `tupla = (1, 2, 3)`
+    - Lista: `lista = [1, 2, 3]`
+- A função `tuple(L)` converte uma lista `L` em uma tupla
+- A função `list(T)` converte uma tupla `T` em uma lista
+- `enumerate(lista)` - enumera iteráveis (índices) aula53
+    - Ex:`enumerate(['a', 'b']) => [(0, 'a'), (1, 'b')]`
+    - Ao ser usado ele fica vazio no final.
+    - Pode ser convertido para lista/tupla com `list(T)` / `tuple(L)`
+- Try/Except
+    - `except ValueError:` erro no valor/tipo
+    - `except IndexError:` erro de indice (indice não existente)
+    - `except Exception:` exceção (qualquer outro erro)
+- Imprecisão de ponto flutuante
+    - Causa problemas em operações com numeros decimais.
+    - Ex: 0.1 + 0.7 = 0.799999....
+    - para resolver esse problema pode se usar a função `round(num, casas-dcimais)`;
+    - Importar a biblioteca `import decimal` e usar `decimal.Decima('0.1')`.
+    - Olhar aula51.py .
+- Métodos String
+    - split - divide uma string e transforma em (list) `str.split()`
+    - join - une em uma string `str.join(str/list/tupla)`
+    - strip - corta o espaço no final e no começo se tiver.
+- Interpretador do Python
+    - `python --version` ou `python -V` (ver a versão do python)
+    - `python mod.py` (executa o mod)
+    - `python -u` (unbuffered) Descarrega o buffer
+    - `python -m mod` (lib mod como script)
+    - `python -c 'cmd'` (comando)
+    - `python -i mod.py` (interativo com mod)
+    - `python --help` (ajuda)
+- Desempacotamento  96 -> [aula59.py](aula59.py)
+
+-----------------
+
+</p>
+</details>
+
+- [x] 87. Introdução ao empacotamento e desempacotamento [aula51.py](aula51.py) 7m
+- [x] 88. Tipo tuple [aula52.py](aula52.py) (tuplas) 5m
+- [x] 89. enumerate para enumerar valores de iteráveis (pegar índices) [aula53.py](aula53.py)  12m
+- [x] 90. Exercício - crie uma lista de compras com listas [Meu Exercício](aula54_0_exercicio.py) 4m
+- [x] 91. Solução do exercício - crie uma lista de compras com listas [Gabarito](aula54_1_solucao.py) (com try / except) 11m
+- [x] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal [aula55.py](aula55.py)  9m
+- [x] 93. split, join e strip são métodos muito úteis da str [aula56.py](aula56.py) 12m
+- [x] 94. Listas dentro de listas (iteráveis dentro de iteráveis) [aula57.py](aula57.py) 8m
+- [x] 95. Detalhes sobre o interpretador do Python [aula58.py](aula58.py)  17m
+- [x] 96. Desempacotamento em chamadas de funções [aula59.py](aula59.py) 7m
+- [x] 97. Operação ternária com Python (if e else de uma linha) [aula60.py](aula60.py) 7m
+- [x] 98. Exercício - Gerar o primeiro dígito de um CPF com Python [aula61.py](aula61.py)  10m
+- [x] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python [aula61.py](aula61.py) 9m
+- [x] 100. Exercício - Gerar o segundo dígito de um CPF com Python [aula62.py](aula62.py)   4m
+- [x] 101. Solução do exercício - Gerar o segundo dígito de um CPF com Python[aula62s.py](aula62s.py)   9m
+- [x] 102. Possíveis problemas e soluções para nosso algoritmo do CPF  [aula63.py](aula63.py)14m
+- [x] 103. Criando um gerador de CPFs com nosso algoritmo e Python [aula63.py](aula63.py)
