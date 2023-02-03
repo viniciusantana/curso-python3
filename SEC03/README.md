@@ -305,7 +305,7 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 96. Desempacotamento em chamadas de funções [aula59.py](aula59.py) 7m
 - [x] 97. Operação ternária com Python (if e else de uma linha) [aula60.py](aula60.py) 7m
 - [x] 98. Exercício - Gerar o primeiro dígito de um CPF com Python [aula61.py](aula61.py)  10m
-- [ ] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python 9m
+- [x] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python [aula61.py](aula61.py) 9m
 - [ ] 100. Exercício - Gerar o segundo dígito de um CPF com Python 4m
 - [ ] 101. Solução do exercício - Gerar o segundo dígito de um CPF com Python9m
 - [ ] 102. Possíveis problemas e soluções para nosso algoritmo do CPF 14m
