@@ -254,6 +254,8 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 <details><summary>Anotações</summary>
 <p>
 
+-----------------
+
 - Tipo tupla - Uma lista imutável
     - Tupla: `tupla = 1, 2, 3` ou `tupla = (1, 2, 3)`
     - Lista: `lista = [1, 2, 3]`
@@ -287,7 +289,6 @@ letra = next(iteratador) # retorna ERRO: StopIteration
     - `python --help` (ajuda)
 - Desempacotamento  96 -> [aula59.py](aula59.py)
 
-
 -----------------
 
 </p>
@@ -308,5 +309,5 @@ letra = next(iteratador) # retorna ERRO: StopIteration
 - [x] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python [aula61.py](aula61.py) 9m
 - [x] 100. Exercício - Gerar o segundo dígito de um CPF com Python [aula62.py](aula62.py)   4m
 - [x] 101. Solução do exercício - Gerar o segundo dígito de um CPF com Python[aula62s.py](aula62s.py)   9m
-- [ ] 102. Possíveis problemas e soluções para nosso algoritmo do CPF 14m
-- [ ] 103. Criando um gerador de CPFs com nosso algoritmo e Python
+- [x] 102. Possíveis problemas e soluções para nosso algoritmo do CPF  [aula63.py](aula63.py)14m
+- [x] 103. Criando um gerador de CPFs com nosso algoritmo e Python [aula63.py](aula63.py)
