@@ -19,9 +19,9 @@
 </p>
 </details>
 
-- [ ] 104. O que vamos aprender nessa seção intermediária? 1m
-- [ ] 105. Introdução às funções Python - def define uma função 11m
-- [ ] Teste 8: Teste seus conhecimentos
+- [x] 104. O que vamos aprender nessa seção intermediária?  1m
+- [x] 105. Introdução às funções Python - def define uma função [aula0065.py](aula0065.py) 11m
+- [x] Teste 8: Teste seus conhecimentos
 - [ ] 106. Argumentos nomeados e argumentos posicionais (não nomeados) em funções 12m
 - [ ] Teste 9: Teste seus conhecimentos.
 - [ ] 107. Valores padrão para parâmetros em funções Python + NoneType e None 10m
